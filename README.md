@@ -1,5 +1,5 @@
 
-##Pokemon Project SQL & Flask
+## Pokemon Project SQL & Flask
 This exercise is built on a sql database, 
 that migrates Pokémon data into a DB and define queries over
 the DB.
@@ -38,5 +38,5 @@ These are the routes :
 
 now you can use the queries and test the project
 
-###Database Link
+### Database Link
 [Pokémon Data](https://pokeapi.co/)
