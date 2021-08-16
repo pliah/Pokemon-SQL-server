@@ -13,7 +13,7 @@ The ownedBy field is an array of objects,
 where each object represents a trainer that owns this pokemon.
 
 
-###To conclude:
+### To conclude:
 
 These are the SQL tables :
 - pokemon
